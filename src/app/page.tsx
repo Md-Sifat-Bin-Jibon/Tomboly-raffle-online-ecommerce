@@ -1,12 +1,10 @@
 
 
-export default function Home() {
+const page = () => {
   return (
     <div>
-
-      
-
-         
     </div>
-  );
+  )
 }
+
+export default page
